@@ -1,5 +1,4 @@
-
-
+.cache
 #amplify
 amplify/\#current-cloud-backend
 amplify/.config/local-*
