@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tunelify-dev-174928-authRole",
+      "UnauthRoleArn": "arn:aws:iam::333980546223:role/amplify-tunelify-dev-174928-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::333980546223:role/amplify-tunelify-dev-174928-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tunelify-dev-174928-deployment",
+      "UnauthRoleName": "amplify-tunelify-dev-174928-unauthRole",
+      "StackName": "amplify-tunelify-dev-174928",
+      "StackId": "arn:aws:cloudformation:us-east-1:333980546223:stack/amplify-tunelify-dev-174928/32109c30-0fc7-11eb-9c81-0ac853a0932f",
+      "AmplifyAppId": "dthuk979ogego"
+    },
+    "categories": {
+      "auth": {
+        "tunelifyb76ef43c": {}
+      }
+    }
+  }
+}

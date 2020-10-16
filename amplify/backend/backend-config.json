@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "tunelifyb76ef43c": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "tunelify": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
